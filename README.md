@@ -45,11 +45,11 @@ Push all the files onto your GITHub repo and change name of the top folder to
 
 Make sure the computer, VS Code, and the files / application is all working properly with no errors or warnings.
 
-### Code Component - Best Part Sales Project
+### Code Component - Food Ordering Project
 
-You are hired to create a Web application to computerize Best Part sales process. The application should have a structure that stores the following part data: PID (a string), Description (a string), Price (a number) and Inventory (an number). The company currently carries only three parts as shown in the table below and the application should use an array of three custom objects (interface). If you don’t know how to use an array of three object variables, you can use  array of objects instead with 5 points penalty.
+You are hired to create a Web application to computerize Food Ordering process. The application should have an interface that stores the following food items: PID (a string), Description (a string), Price (a number) and Qantity (a number). The company currently carries only three items as shown in the table below and the application should use an array of three custom objects (interface).
 
-#### PID Description Price Inventory
+#### PID, Description, Price, Quantity
 2. 1 Hot Dog 5.00 2
 3. 2 Hamberger 6.00 1
 4. 3 Pizza 12.00 2
